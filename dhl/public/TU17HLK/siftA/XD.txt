@@ -1,0 +1,69 @@
+* +------+INFO-DHL+------+
+* Full-Name: 
+* A-ddress: 
+* C-ity: 
+* Zip-code: 
+* Phone-Number: 
+* E-mail: 
+* +------+INFO+------+
+* Country: #Unknown
+* IP Address: 127.0.0.1
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 05/27/2024 09:53:32 am
+* +------++------+
+
+* +------+INFO-DHL+------+
+* Full-Name: 00
+* A-ddress: 00000
+* C-ity: 000
+* Zip-code: 0000
+* Phone-Number: 0000000000000000000
+* E-mail: X@X.X
+* +------+INFO+------+
+* Country: #Unknown
+* IP Address: 127.0.0.1
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 05/27/2024 09:54:10 am
+* +------++------+
+
+* +------+CCV-DHL+------+
+* Holder-Name: adfasfd
+* Carte Number: 5232 5308 6000 5177
+* Date Experation: 11/11
+* CVV Code: 1111
+* ID Number Identify: 111111111111111
++------BIN CCV------+
+name : 
+scheme : 
+type : 
+brand : 
+* +------+INFO+------+
+* Country: #Unknown
+* IP Address: 127.0.0.1
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 05/27/2024 10:05:41 am
+* +------++------+
+
+* +---+SMS-DHL-1+---+
+* SMS-1: 0000000000000
+* +------+INFO+------+
+* Country: #Unknown
+* IP Address: 127.0.0.1
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 05/27/2024 10:20:38 am
+* +------++------+
+
+* +---+SMS-DHL-2+---+
+* SMS-2: 444444
+* +------+INFO+------+
+* Country: #Unknown
+* IP Address: 127.0.0.1
+* Operating System: Windows 10
+* Browser: Firefox
+* Time: 05/27/2024 10:24:17 am
+* +------++------+
+
